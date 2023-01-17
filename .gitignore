@@ -1,0 +1,15 @@
+*.rpyc
+*.rpymc
+*.bak
+
+*.rpa
+
+cache/
+saves/
+
+log.txt
+errors.txt
+traceback.txt
+project.json
+
+.vscode/
