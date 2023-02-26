@@ -1,0 +1,1 @@
+style board_text is game_menu_board_button_text
