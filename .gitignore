@@ -1,6 +1,7 @@
 *.rpyc
 *.rpymc
 *.bak
+*.DS_Store
 
 *.rpa
 
@@ -13,3 +14,14 @@ traceback.txt
 project.json
 
 .vscode/
+
+**/.DS_Store
+
+*.png
+*.jpg
+*.jpeg
+*.mp3
+*.ogg
+*.wav
+*.ttf
+*.otf

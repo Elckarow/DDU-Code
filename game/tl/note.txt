@@ -1,0 +1,4 @@
+this folder is used by renpy's translation framework.
+
+drop the folder containing the translated files here and open the game.
+a button of the corresponding translation should appear in the "Text" settings.
